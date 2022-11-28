@@ -1,0 +1,6 @@
+            Financial Analysis
+--------------------------------------------
+The total months are 86 months.
+The average loss is -$2,315.12
+The greatest profit is $1,926,159 on Feb-2012
+The worst loss is -$2,196,167 on Sep-2013
