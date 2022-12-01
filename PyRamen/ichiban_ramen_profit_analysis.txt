@@ -1,0 +1,12 @@
+                                   <<<Ichiban Ramen Profit Metrics>>>
+Nagomi shoyu                                   | Quantity: 9132 	| Revenue: 100452 	|COGS: 45660 	|Profit: 54792 
+Shio ramen                                     | Quantity: 9180 	| Revenue: 100980 	|COGS: 45900 	|Profit: 55080 
+Spicy miso ramen                               | Quantity: 9238 	| Revenue: 110856 	|COGS: 46190 	|Profit: 64666 
+Vegetarian spicy miso                          | Quantity: 9216 	| Revenue: 110592 	|COGS: 46080 	|Profit: 64512 
+Miso crab ramen                                | Quantity: 8890 	| Revenue: 106680 	|COGS: 53340 	|Profit: 53340 
+Soft-shell miso crab ramen                     | Quantity: 9130 	| Revenue: 127820 	|COGS: 63910 	|Profit: 63910 
+Tori paitan ramen                              | Quantity: 9156 	| Revenue: 119028 	|COGS: 54936 	|Profit: 64092 
+Tonkotsu ramen                                 | Quantity: 9288 	| Revenue: 120744 	|COGS: 55728 	|Profit: 65016 
+Burnt garlic tonkotsu ramen                    | Quantity: 9070 	| Revenue: 126980 	|COGS: 54420 	|Profit: 72560 
+Vegetarian curry + king trumpet mushroom ramen | Quantity: 8824 	| Revenue: 114712 	|COGS: 61768 	|Profit: 52944 
+Truffle butter ramen                           | Quantity: 8982 	| Revenue: 125748 	|COGS: 62874 	|Profit: 62874 
