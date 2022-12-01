@@ -22,5 +22,5 @@ Details of requirements:
 3. Put the output data (the computed data) into the text file. </font> 
 
 ## <br>Resources
-* PyBank and PyRamen images provided by © 2022 edX Boot Camps LLC
+* PyBank and PyRamen images provided by © 2022 edX Boot Camps LLC.
 
